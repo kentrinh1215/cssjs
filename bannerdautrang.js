@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/8BX46I' target='_blank'><img src='http://1.bp.blogspot.com/-D00pwO1Wzf8/VX_bwLIVvsI/AAAAAAAADGM/hTXMP8fRiSQ/s1600/dong-phuc-ao-thun%2B%25281%2529.jpg width='500px'/><br/>May áo đồng phục giá rẻ</a>. Đồng Phục Toàn Quốc. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.dongphuctoanquoc.com/2015/05/xuong-may-dong-phuc-cao-cap.html' target='_blank'><img src='http://1.bp.blogspot.com/-D00pwO1Wzf8/VX_bwLIVvsI/AAAAAAAADGM/hTXMP8fRiSQ/s1600/dong-phuc-ao-thun%2B%25281%2529.jpg width='500px'/><br/>May áo đồng phục giá rẻ</a>. Đồng Phục Toàn Quốc. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
