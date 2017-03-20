@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/8BX46I' target='_blank'><img src='https://lh3.googleusercontent.com/-S29yA7kDtBk/WMvjhZr3jKI/AAAAAAAAGSk/U3tkcroG8qgtfPz7mDeOb8wQKcG6VXYxQCL0B/w530-d-h398-p-rw/dong-phuc-ao-thun%2B%25281%2529.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/8BX46I' target='_blank'><img src='https://github.com/kentrinh1215/cssjs/blob/master/dong-phuc-ao-thun%20(1).jpg?raw=true' width='500px'/><br/>May áo đồng phục giá rẻ</a>. Đồng Phục Toàn Quốc. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
